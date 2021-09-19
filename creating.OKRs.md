@@ -4,8 +4,12 @@ In this lesson, you are learning to define and create measurable project goals a
 What are OKRs?
 OKR stands for objectives and key results. They combine a goal and a metric to determine a measurable outcome. 
 
-Chart showing a description of objectives and key resultsObjectives: Defines what needs to be achieved; describes a desired outcome.
+Chart showing a description of objectives and key results
+
+Objectives: Defines what needs to be achieved; describes a desired outcome.
+
 Key results: The measurable outcomes that objectively define when the objective has been met
+
 Company-wide OKRs are used to set an ultimate goal for an entire organization, whole team, department, and project-level OKRs describe the focused results each group will need to achieve in order to support the organization.
 
 OKRs and project management
